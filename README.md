@@ -38,13 +38,13 @@ The dataset has the following attributes:
 ### Task:
 
 1.	Read the data into a Dataframe.
-2.	
-3.	Convert the Dataframe into a temporary view called iot.
-4.	
-5.	Count how many devices are there from each country and display the output.
-6.	
-7.	Display all the countries whose carbon dioxide level is more than 1400. Sort the output in descending order.
-8.	
-9.	Select all countries' devices with high-levels of C02 and group by cca3 and order by device_ids (Hint: For high CO2 level, the LCD status will be RED).
-10.	
-11.	find out all devices in countries whose batteries need replacements.
+	
+2.	Convert the Dataframe into a temporary view called iot.
+	
+3.	Count how many devices are there from each country and display the output.
+	
+4.	Display all the countries whose carbon dioxide level is more than 1400. Sort the output in descending order.
+	
+5.	Select all countries' devices with high-levels of C02 and group by cca3 and order by device_ids (Hint: For high CO2 level, the LCD status will be RED).
+	
+6.	find out all devices in countries whose batteries need replacements.
